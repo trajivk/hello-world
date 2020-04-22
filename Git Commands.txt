@@ -1,0 +1,9 @@
+
+Git Commands
+
+
+git commit ( to commit unsaved changes)
+git log ( Show the revisoins of the repository)
+git status ( status of uncommited changes)
+git add -A ( Add files to stage)
+git init ( intialize git repository)
